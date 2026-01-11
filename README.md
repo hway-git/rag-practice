@@ -1,5 +1,6 @@
 # rag-practice
 
+```
 rag-service/
 ├── api/                     # 接口层：对外提供 RAG 服务入口
 │   ├── handler/             # 路由处理器
@@ -66,3 +67,4 @@ rag-service/
 ├── Dockerfile               # 容器化构建
 ├── docker-compose.yaml      # 本地开发环境编排
 └── README.md                # 工程说明
+```
